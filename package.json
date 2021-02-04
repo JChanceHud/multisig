@@ -1,0 +1,15 @@
+{
+  "name": "multisig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sh scripts/compile.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chance Hudson",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "web3": "^1.3.4"
+  }
+}
